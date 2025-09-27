@@ -1,0 +1,18 @@
+{
+  "name": "sheet-suite-automation",
+  "version": "1.0.0",
+  "description": "This repo contains project resources to lightweighted SME system automation resources.",
+  "main": "index.js",
+  "scripts": {
+  "lint": "eslint src --ext .js,.ts",
+  "test": "echo \"Add test runner (e.g. QUnitGS2) here\""
+}
+
+
+,
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "eslint": "^8.57.0"
+  },
+  "license": "MIT"
+}
